@@ -1,5 +1,14 @@
-### Hi, I'm Karla Pereira ^^
+# Karla Pereira
+## Sobre mim:
 
+• Engenheira de Computação formada pelo Inatel, turma 2018/2. \
+• Conhecimento em linguagens de programação: C, C++, SQL, C#, JAVA e Python.\
+• Framework: Flask, Django.\
+• Experiência em desenvolvimento de jogos 2D e 3D com CONSTRUCT2 e Unity.\
+• Versionamento com Git e Jira.\
+• Engine: Unity3D e CONSTRUCT2.\
+• Conhecimento e experiência em redes móveis, envolvendo topologia e funcionamento 2G, 3G e 4G.\
+• Apaixonada por games, sempre buscando aprender sobre as novas tecnologias de TI. No momento estudando JavaScript e Node.js.
 <!--
 **karlapereira/karlapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
