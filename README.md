@@ -39,6 +39,7 @@
    engine = ["Unity", "Construct2"]
    tools = ["VS Code", "Postman"]
    versioning = ["GIT", "Sourcetree", "Jira"]
+   studying = ["Node.js", "JavaScript/TypeScript", "Angular9"]
 ```
 
 <!--
