@@ -12,7 +12,7 @@
    summary = "Computer engineering at Inatel (2018/2), developer 
             at Inatel Competence Center, i love learn about technologies
             "
-   age = 25
+   age = 26
    passion = "Games, series/animes, coding and economy"
    
    def __init__(self, name, summay, age, passion):
