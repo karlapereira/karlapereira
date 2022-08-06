@@ -9,11 +9,11 @@
 ```Python
  class about_me:
    name = "Karla Pereira"
-   summary = "Computer engineering at Inatel (2018/2), developer 
-            at Inatel Competence Center, i love learn about technologies
+   summary = "Computer engineering at Inatel (2018/2),
+            I love learn about technologies world
             "
    age = 27
-   passion = "Games, series/animes, coding and economy"
+   passion = "Games, series/animes, coding, data science and economy"
    
    def __init__(self, name, summay, age, passion):
         self.name = name
@@ -39,7 +39,8 @@
    engine = ["Unity", "Construct2"]
    tools = ["VS Code", "Postman"]
    versioning = ["GIT", "Sourcetree", "Jira"]
-   studying = ["Node.js", "JavaScript/TypeScript", "Angular9"]
+   queues: ["Apache Kafka"]
+   others: ["Docker", "Dockerfile]
 ```
 
 <!--
