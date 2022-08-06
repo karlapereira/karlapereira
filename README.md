@@ -10,10 +10,10 @@
  class about_me:
    name = "Karla Pereira"
    summary = "Computer engineering at Inatel (2018/2),
-            I love learn about technologies world
-            "
+            I love learn about technologies world"
    age = 27
-   passion = "Games, series/animes, coding, data science and economy"
+   passion = "Games, series/animes, coding, data science
+              and economy"
    
    def __init__(self, name, summay, age, passion):
         self.name = name
