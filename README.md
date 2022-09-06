@@ -15,11 +15,8 @@
    passion = "Games, series/animes, coding, data science
               and economy"
    
-   def __init__(self, name, summay, age, passion):
-        self.name = name
-        self.summary = summary
-        self.age = age
-        self.passion = passion
+   def __init__(self) -> None:
+        pass
         
   def __repr__(self, ):
        return {"name": self.name, "sumamy": self.summary, "age": age, "passion": passion}
