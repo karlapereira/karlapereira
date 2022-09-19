@@ -19,7 +19,7 @@
         self.coursers = coursers
         self.occupation = occupation
         
-  def __repr__(self, ):
+  def __repr__(self ):
        return {"name": self.name, "sumamy": self.summary, "age": age, "passion": passion}
 ```
 
