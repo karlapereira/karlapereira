@@ -33,7 +33,7 @@
  class tech_info:
    languages = ["Python", "SQL", "C", "C++", "Java", "C#", "JavaScript"]
    framework = ["Flask", "Django"]
-   database = ["MySQL", "SQLite", "MongoDB"]
+   database = ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Redis"]
    engine = ["Unity", "Construct2"]
    tools = ["VS Code", "Postman"]
    versioning = ["GIT", "Sourcetree", "Jira"]
