@@ -33,12 +33,14 @@
  class tech_info:
    languages = ["Python", "SQL", "C", "C++", "Java", "C#", "JavaScript"]
    framework = ["Flask", "Django"]
-   database = ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Redis"]
+   database = ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
    engine = ["Unity", "Construct2"]
    tools = ["VS Code", "Postman"]
    versioning = ["GIT", "Sourcetree", "Jira"]
-   queues: ["Apache Kafka"]
-   others: ["Docker", "Dockerfile]
+   queues = ["Apache Kafka"]
+   monitoring_and_observability = ["Datadog", "Grafana", "Kibana"]
+   others = ["Docker", "Dockerfile"]
+   
 ```
 
 <!--
