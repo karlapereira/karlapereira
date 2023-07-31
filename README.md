@@ -11,7 +11,7 @@
    name = "Karla Pereira"
    summary = "Computer engineering at Inatel (2018/2),
             I love learn about technologies world"
-   age = 27
+   age = 28
    passion = "Games, series/animes, coding, data science
               and economy"
    
