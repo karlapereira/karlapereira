@@ -11,7 +11,7 @@
    name = "Karla Pereira"
    summary = "Computer engineering at Inatel (2018/2),
             I love learn about technologies world"
-   age = 28
+   age = 29
    passion = "Games, series/animes, coding, data science
               and economy"
    
@@ -32,10 +32,10 @@
 ```Python
  class tech_info:
    languages = ["Python", "Kotlin/Java", "SQL", "C", "C++", "JavaScript"]
-   framework = ["Flask", "Django"]
+   framework = ["Flask", "Django", "SpringBoot"]
    database = ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
    engine = ["Unity", "Construct2"]
-   tools = ["VS Code", "Postman"]
+   tools = ["VS Code", "Postman", "IntelliJ"]
    versioning = ["GIT", "Sourcetree", "Jira"]
    queues = ["Apache Kafka"]
    monitoring_and_observability = ["Datadog", "Grafana", "Kibana"]
