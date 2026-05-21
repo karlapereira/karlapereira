@@ -30,7 +30,7 @@
 
 ```Python
  class tech_info:
-   languages = ["Python", "Kotlin/Java", "SQL", "C", "C++", "JavaScript"]
+   languages = ["Kotlin/Java", "Go", "Python", "JavaScript"]
    framework = ["Flask", "Django", "SpringBoot"]
    database = ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
    engine = ["Unity", "Construct2"]
